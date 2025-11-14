@@ -1,0 +1,16 @@
+[2025-11-14 22:03:47] ERROR: /Users/lalita/Desktop/a2/app.py not found
+[2025-11-14 22:04:09] ERROR: /Users/lalita/Desktop/a2/app.py not found
+[2025-11-14 22:04:26] Starting: /Library/Developer/CommandLineTools/usr/bin/python3 -m streamlit run /Users/lalita/Desktop/a2/run.py --server.headless true --server.address 127.0.0.1 --server.port 8501
+[2025-11-14 22:04:26] 
+[2025-11-14 22:04:26]   You can now view your Streamlit app in your browser.
+[2025-11-14 22:04:26] 
+[2025-11-14 22:04:26]   URL: http://127.0.0.1:8501
+[2025-11-14 22:04:26] 
+[2025-11-14 22:04:26]   For better performance, install the Watchdog module:
+[2025-11-14 22:04:26] 
+[2025-11-14 22:04:26]   $ xcode-select --install
+[2025-11-14 22:04:26]   $ pip install watchdog
+[2025-11-14 22:04:26] 
+[2025-11-14 22:04:36] /Users/lalita/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+[2025-11-14 22:04:36]   warnings.warn(
+[2025-11-14 22:05:30] Launcher exiting, returncode=None
